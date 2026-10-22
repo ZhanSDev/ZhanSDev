@@ -3,11 +3,11 @@
 
 <img src="./header.svg" width="100%" alt="ZhanSDev Header">
 
-<img src="./about.svg" width="100%" alt="About Me">
+  <img src="./tea-animation-red.svg"
+       width="300"
+       alt="Animated ASCII Coffee Cup">
 
-  <img src="./zhansdev_ascii_robot.gif"
-       width="85%"
-       alt="Animated ASCII Robot">
+<img src="./about.svg" width="100%" alt="About Me">
 
 <img src="./skills.svg" width="100%" alt="Tech Stack">
 
