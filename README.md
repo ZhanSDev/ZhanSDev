@@ -12,7 +12,7 @@
 <img src="./footer.svg" width="100%" alt="Footer">
 
 <img src="./tea-animation-red.svg"
-       width="300"
+       width="100"
        alt="Animated ASCII Coffee Cup">
 
 </div>
