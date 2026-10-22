@@ -5,6 +5,10 @@
 
 <img src="./about.svg" width="100%" alt="About Me">
 
+  <img src="./zhansdev_ascii_robot.gif"
+       width="85%"
+       alt="Animated ASCII Robot">
+
 <img src="./skills.svg" width="100%" alt="Tech Stack">
 
 <img src="./gh-stats.svg" width="100%" alt="GitHub Statistics">
