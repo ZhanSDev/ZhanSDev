@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**ZhanSDev/ZhanSDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="./header.svg" width="100%" alt="ZhanSDev Header">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./about.svg" width="100%" alt="About Me">
+
+<img src="./skills.svg" width="100%" alt="Tech Stack">
+
+<img src="./gh-stats.svg" width="100%" alt="GitHub Statistics">
+
+<img src="./footer.svg" width="100%" alt="Footer">
+
+</div>
+
