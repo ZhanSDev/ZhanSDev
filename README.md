@@ -10,7 +10,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhanSDev/ZhanSDev/output/github-snake-dark.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ZhanSDev/ZhanSDev/output/github-snake.svg" width="100%" />
 </picture>
-<img src="./tea-animation-red.svg" width="320" alt="Animated ASCII Tea Cup">
+
 <img src="./footer.svg" width="100%" alt="Footer">
 </div>
 
